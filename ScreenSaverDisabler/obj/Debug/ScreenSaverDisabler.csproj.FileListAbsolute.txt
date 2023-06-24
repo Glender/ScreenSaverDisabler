@@ -1,0 +1,11 @@
+C:\Users\GlennHiemstra\Code\screensaver-disabler\ScreenSaverDisabler\bin\Debug\ScreenSaverDisabler.exe.config
+C:\Users\GlennHiemstra\Code\screensaver-disabler\ScreenSaverDisabler\bin\Debug\ScreenSaverDisabler.exe
+C:\Users\GlennHiemstra\Code\screensaver-disabler\ScreenSaverDisabler\bin\Debug\ScreenSaverDisabler.pdb
+C:\Users\GlennHiemstra\Code\screensaver-disabler\ScreenSaverDisabler\obj\Debug\ScreenSaverDisabler.csproj.AssemblyReference.cache
+C:\Users\GlennHiemstra\Code\screensaver-disabler\ScreenSaverDisabler\obj\Debug\ScreenSaverDisabler.csproj.SuggestedBindingRedirects.cache
+C:\Users\GlennHiemstra\Code\screensaver-disabler\ScreenSaverDisabler\obj\Debug\Monon.FormMain.resources
+C:\Users\GlennHiemstra\Code\screensaver-disabler\ScreenSaverDisabler\obj\Debug\ScreenSaverDisabler.Properties.Resources.resources
+C:\Users\GlennHiemstra\Code\screensaver-disabler\ScreenSaverDisabler\obj\Debug\ScreenSaverDisabler.csproj.GenerateResource.cache
+C:\Users\GlennHiemstra\Code\screensaver-disabler\ScreenSaverDisabler\obj\Debug\ScreenSaverDisabler.csproj.CoreCompileInputs.cache
+C:\Users\GlennHiemstra\Code\screensaver-disabler\ScreenSaverDisabler\obj\Debug\ScreenSaverDisabler.exe
+C:\Users\GlennHiemstra\Code\screensaver-disabler\ScreenSaverDisabler\obj\Debug\ScreenSaverDisabler.pdb
